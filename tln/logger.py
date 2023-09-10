@@ -1,7 +1,7 @@
 import os
 import sys
 
-__all__ = ['Logger', 'show_name']
+# __all__ = ['Logger', 'show_name']
 
 # class Logger to test print
 class Logger(object):
