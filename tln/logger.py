@@ -11,3 +11,7 @@ class Logger(object):
 
     def show(self):
         print(self.text)
+
+
+def show_name():
+    print("nhutnm4")
